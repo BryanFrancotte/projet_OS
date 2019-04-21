@@ -14,3 +14,4 @@ do
 		echo "le fruit choisi : $fruit"
 	fi
 done
+
