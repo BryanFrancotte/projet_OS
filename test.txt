@@ -1,7 +1,2 @@
-client.sh
-output-test.txt
-startserv.sh
-stopserv.sh
-test.sh
-test.txt
-tmp
+client PID: *23820*
+projet_OS

@@ -5,7 +5,7 @@
 #	rm "servpid.txt"
 #done < "servpid.txt"
 
-pipe=/tmp/serverpipe
+pipe=tmp/serverpipe
 #check si le pipe nomé existe, aka le server est en fonction.
 if [[ ! -p $pipe ]]
 then
